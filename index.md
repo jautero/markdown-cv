@@ -33,11 +33,16 @@ __Nokia Corporation__, Software Specialist
 - Processing security issues for OS platform
 
 `1999 - 2011`
-_F-Secure Corporation__, Software Engineer
-- in Mac team
-- in Linux team
-- in Anti-Virus for Firewalls team
+___F-Secure Corporation__, Software Engineer
+- Developing first version of Mac Anti-Virus.
+- Developing Linux Anti-Virus products.
+- Porting Anti-Virus for Firewalls to Linux
 
 `1996 - 1999`
 __Siemens - Nixdorf__, Intern
 - Pegasos team
+
+## Skills
+
+`Languages`
+Finnish (_native_), English (_good_), Swedish (_poor_)
